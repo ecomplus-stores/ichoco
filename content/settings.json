@@ -13,11 +13,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.svg",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#400c04",
-  "icon": "/img/uploads/i-choco-7-.png",
+  "icon": "/img/uploads/favicon.png",
   "store_id": 1284,
-  "description": "Carinho em forma de presente!\nCestas, caixas surpresas. Tudo feito feito respeitando os protocolos de segurança.\nSurpreenda quem você ama!\n",
-  "large_icon": "/img/uploads/i-choco-7-.png"
+  "description": "Carinho em forma de presente!\n\nCestas, caixas surpresas. Tudo feito feito respeitando os protocolos de segurança.\n\nSurpreenda quem você ama!\n",
+  "large_icon": "/img/uploads/favicon.png"
 }
