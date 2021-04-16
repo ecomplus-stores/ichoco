@@ -2,88 +2,107 @@
 // Add your custom CSS here.
 
 .header {
-    box-shadow: none;
+  box-shadow: none;
 }
 .header__container {
-    border-color: transparent !important;
+  border-color: transparent !important;
 
-    max-width: 150%;
+  max-width: 150%;
 }
 
 .top-bar__nav {
-    display: none !important;
+  display: none !important;
 }
 
 .header__row {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 #logo {
 }
 
 .banner {
-    img-fluid {
-        width: 100vw;
-        position: relative;
-        background-attachment: fixed;
-    }
+  img-fluid {
+    width: 100vw;
+    position: relative;
+    background-attachment: fixed;
+  }
 }
 
+.banner picture img {
+  -moz-transition: all 2s;
+  -webkit-transition: all 2s;
+  transition: all 2s;
+}
+
+.banner picture img:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
 .banner-slider {
-    max-width: max-content;
-    max-height: max-content;
+  max-width: max-content;
+  max-height: max-content;
 }
 
 .glide__slides.banner-slider__slides {
-    width: 100vw;
+  width: 100vw;
 }
 
 .top-bar {
-    display: none !important;
+  display: none !important;
 }
 
 .page-title.container {
-    margin-top: 100px;
-    margin-bottom: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .page-title__head {
-    margin-right: 100px;
+  margin-right: 100px;
 }
 
 .info-bar {
-    display: flex;
-    max-width: none;
-    background-color: $primary;
-    color: $secondary;
+  display: flex;
+  max-width: none;
+  background-color: $primary;
+  color: $secondary;
 }
 
-// body {
-//     font-family: Poppins, sans-serif !important;
-//   }
-
 #cart-button {
-    i:before {
-        content: "";
-        display: inline-block;
-        background-repeat: no-repeat;
-        width: 40px;
-        height: 40px;
-        -webkit-mask: url("https://ichoco.s3-sa-east-1.amazonaws.com/public/bag.svg") no-repeat 50% 50%;
-        mask: url("https://ichoco.s3-sa-east-1.amazonaws.com/public/bag.svg") no-repeat 50% 50%;
-        -webkit-mask-size: cover;
-        mask-size: cover;
-        background-color: red;
-    }
+  i:before {
+    content: "";
+    display: inline-block;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    -webkit-mask: url("https://ichoco.s3-sa-east-1.amazonaws.com/public/bag.svg") no-repeat 50% 50%;
+    mask: url("https://ichoco.s3-sa-east-1.amazonaws.com/public/bag.svg") no-repeat 50% 50%;
+    -webkit-mask-size: cover;
+    mask-size: cover;
+    background-color: red;
+  }
 
-    .fa-shopping-bag:before {
-        background-color: $secondary;
-    }
+  .fa-shopping-bag:before {
+    background-color: $secondary;
+  }
 
-    @media (hover: hover) {
-        .fa-shopping-bag:hover:before {
-            background-color: $primary;
-        }
+  @media (hover: hover) {
+    .fa-shopping-bag:hover:before {
+      background-color: $primary;
     }
+  }
+}
+
+#footer-pages > ul > li > a {
+  color: $secondary;
+}
+
+.footer__links > ul > li > a {
+  color: $secondary;
+}
+
+.footer__contacts > ul > li > a {
+  color: $secondary;
 }
