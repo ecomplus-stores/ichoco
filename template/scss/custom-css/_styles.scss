@@ -103,6 +103,33 @@
   color: $secondary;
 }
 
+.page {
+  .page-title {
+    max-height: 60px;
+    margin-top: 48px !important;
+    margin-bottom: 16px !important;
+    &__head {
+      width: 100%;
+      h1 {
+        color: $secondary;
+        font-weight: bold;
+      }
+    }
+  }
+  .extra-page {
+    h3 {
+      font-size: 16px;
+      color: var(--warning);
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+      color: var(--dark);
+    }
+  }
+}
+
 .page--pages\/contato {
   .page-title {
     max-height: 60px;
@@ -141,12 +168,13 @@
   }
 }
 
-
 @media (min-width: 765px) {
   .page--pages\/contato {
-    span {
-      font-size: 18px;
-      line-height: 28px !important;
+    .extra-page {
+      span {
+        font-size: 18px;
+        line-height: 28px !important;
+      }
     }
   }
 }
