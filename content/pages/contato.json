@@ -2,5 +2,5 @@
   "title": "Fale conosco",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "<div style=\"display: flex; align-items: center; justify-content: center;\">\n\n<a href=\"whatsapp://send?abid=+5531997404664&text=Olá, no que podemos ajudar?\" target=\"_blank\">\n\n![link para entrar em contato com o ichoco](https://ichoco.s3-sa-east-1.amazonaws.com/public/contato.png)\n\n</a>\n\n<div>\n\n<span style=\"color: #400c04; \">\n\nPara tirar suas dúvidas, fazer sugestões ou reclamações envie uma mensagem em nosso Whatsapp clicando na imagem ao lado ou através do número <strong style=\"font-weight: bold;\">(31) 99740-4664</strong>.\n\n</span>"
+  "body": "<div style=\"display: flex; align-items: center; justify-content: center;\">\n\n<a href=\"https://linktr.ee/ichoco\" target=\"_blank\">\n\n![link para entrar em contato com o ichoco](https://ichoco.s3-sa-east-1.amazonaws.com/public/contato.png)\n\n</a>\n\n<div>\n\n<span style=\"color: #400c04; \">\n\nPara tirar suas dúvidas, fazer sugestões ou reclamações envie uma mensagem em nosso Whatsapp clicando na imagem ao lado ou através do número <strong style=\"font-weight: bold;\">(31) 99740-4664</strong>.\n\n</span>"
 }
