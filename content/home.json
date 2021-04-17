@@ -7,11 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/copia-de-celebrando.png",
+          "img": "/img/uploads/banner_ichoco.png",
           "link": "",
-          "alt": "",
+          "alt": "banner IChoco",
           "start": "",
-          "end": ""
+          "end": "",
+          "mobile_img": "/img/uploads/banner_ichoco_mobile.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_celebrando_amor.png",
+          "alt": "Presente com amor Ichoco"
         }
       ]
     },
@@ -27,9 +34,21 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "I CHOCO",
-      "description": "Carinho em forma de presente! Cestas, caixas surpresas. Tudo feito respeitando os protocolos de segurança. Surpreenda quem você ama!"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/grid1.png",
+          "alt": "Sorrir Amar e Viver"
+        },
+        {
+          "img": "/img/uploads/grid2.png",
+          "alt": "Play no chocolate"
+        },
+        {
+          "img": "/img/uploads/grid3.png",
+          "alt": "Aqui dentro tem amor: Ichoco"
+        }
+      ]
     }
   ]
 }
