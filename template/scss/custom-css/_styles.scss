@@ -167,6 +167,16 @@
     }
   }
 }
+.page--pages\/faq {
+  text-align: center;
+  .faq-questions {
+    width: 100%;
+    text-align: left;
+    a {
+      color: var(--info)
+    }
+  }
+}
 
 @media (min-width: 765px) {
   .page--pages\/contato {
