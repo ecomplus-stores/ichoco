@@ -2,5 +2,5 @@
   "title": "Dúvidas frequentes",
   "meta_title": "Dúvidas frequentes",
   "meta_description": "Dúvidas frequentes",
-  "body": "\n\n![](/img/uploads/faq.png)\n\n  <h3>Posso customizar as cestas?</h3>\n  <p>\n    Sim! Mas para isso você precisa entrar em contato através de um dos nossos meios\n    de comunicação, entre em contato no nosso: <a href=\"/pages/contato\">whatsapp!</a>\n  </p>"
+  "body": "\n\n![Imagem de um chocolate com um ponto de interrogação](/img/uploads/faq.png)\n\n<div class=faq-questions>\n\n<div class=\"faq-questions__question\">\n\n<h3>Posso personalizar cestas?</h3>\n\n<p>\n\nSim! Mas para isso você precisa entrar em contato através de um dos nossos meios\n\nde comunicação, entre em contato no nosso: <a href=\"/pages/contato\">whatsapp!</a>\n\n</p>\n\n</div>\n\n</div>"
 }
