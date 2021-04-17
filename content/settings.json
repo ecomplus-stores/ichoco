@@ -1,7 +1,8 @@
 {
   "domain": "ichoco.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffefd2",
+  "primary_color": "#400c04",
+  "secondary_color": "#914B40",
   "theme": {
     "bootswatch": "lux",
     "custom": "_"
@@ -15,7 +16,6 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#400c04",
   "icon": "/img/uploads/favicon.png",
   "store_id": 1284,
   "description": "Carinho em forma de presente!\n\nCestas, caixas surpresas. Tudo feito feito respeitando os protocolos de segurança.\n\nSurpreenda quem você ama!\n",
