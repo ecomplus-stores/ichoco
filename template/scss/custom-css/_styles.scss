@@ -177,7 +177,7 @@ h4 {
     width: 100%;
     text-align: left;
     a {
-      color: var(--info)
+      color: var(--info);
     }
   }
 }
@@ -190,5 +190,17 @@ h4 {
         line-height: 28px !important;
       }
     }
+  }
+}
+
+.header__toggler,
+#footer-categories {
+  display: none !important;
+}
+
+.qrcode {
+  img {
+    width: 100%;
+    margin-bottom: 16px;
   }
 }
