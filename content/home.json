@@ -7,18 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner_ichoco.png",
+          "img": "/img/uploads/celebrando.png",
           "link": "",
           "alt": "banner IChoco",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner_ichoco_mobile.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_celebrando.png",
-          "alt": "Presente com amor Ichoco"
         }
       ]
     },
