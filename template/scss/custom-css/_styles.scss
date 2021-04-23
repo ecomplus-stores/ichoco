@@ -20,9 +20,6 @@ h4 {
   justify-content: space-between;
 }
 
-#logo {
-}
-
 .banner {
   img-fluid {
     width: 100vw;
@@ -32,9 +29,9 @@ h4 {
 }
 
 .banner picture img {
-  -moz-transition: all 2s;
-  -webkit-transition: all 2s;
-  transition: all 2s;
+  -moz-transition: all 3s;
+  -webkit-transition: all 3s;
+  transition: all 3s;
 }
 
 .banner picture img:hover {
@@ -49,10 +46,6 @@ h4 {
 
 .glide__slides.banner-slider__slides {
   width: 100vw;
-}
-
-.top-bar {
-  display: none !important;
 }
 
 .page-title.container {
@@ -193,8 +186,7 @@ h4 {
   }
 }
 
-.header__toggler,
-#footer-categories {
+.product__short-stock {
   display: none !important;
 }
 
