@@ -2,5 +2,11 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "###### <p>\n\nSomos uma empresa setelagoana que foi criada com o intuito de levar produtos de qualidade a um preço diferenciado. Proporcionando a todos a oportunidade de presentear quem ama e levar carinho às famílias.\n\nCriada em 2021 em plena pandemia, onde as demonstrações de carinho precisaram ficar mais restritas, queremos estreitar os laços e levar esse amor bem pertinho!\n\nUma organização jovem é a I CHOCO: com apoio de tecnologia vamos cumprir nossa missão em criar uma plataforma acessível, rápida e intuitiva!\n\nVenha se surpreender conosco!",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banners-categoria-ichoco-3-.png"
+    }
+  ]
 }
