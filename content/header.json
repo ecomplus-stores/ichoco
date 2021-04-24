@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Personalize sua cesta! Surpreenda quem você ama!",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -22,5 +22,5 @@
     "random": 0,
     "full_width": false
   },
-  "search_input": false
+  "search_input": true
 }
