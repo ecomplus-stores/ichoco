@@ -62,11 +62,6 @@
       "title": "Chocolovers"
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
