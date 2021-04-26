@@ -62,17 +62,6 @@
       "title": "Chocolovers"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banners-categoria-ichoco-4-.png"
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -80,6 +69,17 @@
         },
         {
           "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-3-.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banners-categoria-ichoco-4-.png"
         }
       ]
     }
