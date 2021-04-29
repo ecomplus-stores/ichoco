@@ -1,6 +1,6 @@
 {
-  "meta_title": "Cesta de Chocolate e presentes | Ichoco",
-  "meta_description": "Compre cesta de chocolate e presentes na Ichoco. Aqui você encontra diversas cestas, presentes com execelente preço e entrega a domicílio.",
+  "meta_title": "Cesta de Chocolate, Presentes, Café da manhã | ICHOCO",
+  "meta_description": "Compre cesta de chocolate e presentes na ICHOCO. Aqui você encontra diversas cestas, e garantimos o melhor preço.",
   "sections": [
     {
       "type": "banner-slider",
@@ -21,20 +21,36 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-1-.png"
+        },
+        {
+          "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-3-.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "highest_price",
+      "title": "Os mais vistos",
+      "headless": false
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
+      "title": "Aqui tem fofura!",
+      "shuffle": true,
       "headless": true,
-      "link": "Novidades",
-      "sort": "highest_price"
+      "type": "collection-shelf",
+      "link": "",
+      "limit": 12,
+      "collection_id": "608216663983002ac495deb1:categories:Cesta com pelúcia:/cesta-com-pelucia",
+      "sort": null
     },
     {
       "type": "banners-grid",
@@ -54,6 +70,17 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-04-29T23:18:59.038Z",
+          "end": "2021-04-29T23:18:59.075Z",
+          "img": "/img/uploads/copia-de-banners-categoria-ichoco.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -62,15 +89,18 @@
       "title": "Chocolovers"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-1-.png"
-        },
-        {
-          "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-3-.png"
-        }
-      ]
+      "type": "page-title",
+      "title": "Que tal unir flores e Chocolate?",
+      "description": "Para tornar o mimo ainda mais especial, que tal mandar flores e chocolates? <br>  Veja aqui algumas opções com flores bem charmosas e se quiser presentear com a sua flor preferida, manda um Whatsapp pra gente! Aqui a gente personaliza de verdade! <br>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "608213f53983002ac495dd7a:categories:Cesta com Flores:/cesta-com-flores",
+      "title": "",
+      "headless": true
     },
     {
       "type": "banner-slider",
