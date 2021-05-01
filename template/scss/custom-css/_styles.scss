@@ -175,6 +175,36 @@ h4 {
   }
 }
 
+.glide__slide.products-carousel__item.glide__slide > article > div {
+  button {
+    background-color: var(--success);
+  }
+}
+
+.glide__slide.products-carousel__item.glide__slide--active > article > div {
+  button {
+    background-color: var(--success);
+  }
+}
+
+#cart-quickview > aside > footer > a.minicart__btn-checkout.btn.btn-block.btn-primary {
+  background-color: var(--success);
+}
+
+#checkout > div > span > div > div > form > div.input-group.input-group-lg > div > button {
+  background-color: var(--success);
+  &:hover {
+    background-color: var(--teal);
+  }
+}
+
+#product-actions > div > div.product__buy > span > button {
+  background-color: var(--success);
+  &:hover {
+    background-color: var(--teal);
+  }
+}
+
 @media (min-width: 765px) {
   .page--pages\/contato {
     .extra-page {
