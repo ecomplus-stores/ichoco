@@ -4,12 +4,12 @@
   "primary_color": "#400c04",
   "theme": {
     "bootswatch": "lux",
-    "custom": "niche-flowers"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-demo-dark.png",
-  "name": "I Choco",
-  "short_name": "I Choco",
+  "name": "ICHOCO",
+  "short_name": "ICHOCO",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
