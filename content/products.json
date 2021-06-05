@@ -9,6 +9,14 @@
       "enabled": true
     },
     {
+      "type": "product-description",
+      "enabled": true
+    },
+    {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
@@ -17,12 +25,34 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/6.jpg",
+          "link": "/monte-sua-cesta",
+          "alt": "Monte a sua cesta"
+        },
+        {
+          "img": "/img/uploads/7.jpg",
+          "link": "/bomboniere-doces-chocolates",
+          "alt": "Doces para cesta"
+        },
+        {
+          "img": "/img/uploads/8.jpg",
+          "link": "/flores",
+          "alt": "Escolha as flores para a cesta"
+        },
+        {
+          "img": "/img/uploads/9.jpg",
+          "link": "/bebidas",
+          "alt": "Escolha as bebidas"
+        },
+        {
+          "img": "/img/uploads/10.jpg",
+          "link": "/presentes",
+          "alt": "Presentes para a cesta"
+        }
+      ]
     }
   ]
 }
