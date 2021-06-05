@@ -112,6 +112,36 @@
           "img": "/img/uploads/banners-categoria-ichoco-4-.png"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/6.jpg",
+          "link": "/monte-sua-cesta",
+          "alt": "cesta de presente"
+        },
+        {
+          "img": "/img/uploads/7.jpg",
+          "link": "/bomboniere-doces-chocolates",
+          "alt": "doces para cesta"
+        },
+        {
+          "img": "/img/uploads/8.jpg",
+          "link": "/flores",
+          "alt": "Flores para Cesta"
+        },
+        {
+          "img": "/img/uploads/9.jpg",
+          "link": "/bebida",
+          "alt": "Bebidas para cesta"
+        },
+        {
+          "img": "/img/uploads/10.jpg",
+          "link": "/presentes",
+          "alt": "Presentes para cesta"
+        }
+      ]
     }
   ]
 }
