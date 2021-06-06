@@ -1,0 +1,46 @@
+{
+  "title": "Monte sua Cesta!",
+  "sections": [
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/6.jpg",
+          "link": "/monte-sua-cesta",
+          "alt": "Escolha o modelo da cesta"
+        },
+        {
+          "img": "/img/uploads/7.jpg",
+          "link": "/bomboniere-doces-chocolates",
+          "alt": "Escolha os doces"
+        },
+        {
+          "img": "/img/uploads/8.jpg",
+          "link": "/flores",
+          "alt": "Escolha as flores"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/9.jpg",
+          "link": "/bebidas",
+          "alt": "Escolha as bebidas"
+        },
+        {
+          "img": "/img/uploads/10.jpg",
+          "link": "/presentes",
+          "alt": "Escolha um presente especial"
+        },
+        {
+          "img": "/img/uploads/12.jpg",
+          "link": "/kids-divertidos",
+          "alt": "Produtos Kids"
+        }
+      ]
+    }
+  ],
+  "body": "Monte sua cesta com os produtos que preferir!\n\nSempre nas cestas prontas tem um ou outro produto que a gente quer mudar, né!\n\nAqui você tem a oportunidade de escolher um a um: tudinho que vai nesse presente.\n\nEscolha: Tipo da cesta, bebida, guloseimas e também tem a sessão de presentes que dá um toque todo especial!\n\nComece pelo \"Escolha sua Cesta\" e depois adicione os produtos para levarmos esse carinho para quem você ama!"
+}
