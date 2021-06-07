@@ -8,7 +8,7 @@
       "slides": [
         {
           "img": "/img/uploads/copia-de-faq-3-.png",
-          "link": "",
+          "link": "especial-dia-dos-namorados",
           "alt": "banner IChoco",
           "start": "",
           "end": "",
@@ -34,7 +34,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-1-.png"
+          "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-1-.png",
+          "link": "/pages/entrega"
         },
         {
           "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-3-.png"
@@ -62,15 +63,18 @@
       "banners": [
         {
           "img": "/img/uploads/grid1.png",
-          "alt": "Sorrir Amar e Viver"
+          "alt": "Sorrir Amar e Viver",
+          "link": "/presentes"
         },
         {
           "img": "/img/uploads/grid2.png",
-          "alt": "Play no chocolate"
+          "alt": "Play no chocolate",
+          "link": "/bomboniere-doces-chocolates"
         },
         {
           "img": "/img/uploads/grid3.png",
-          "alt": "Aqui dentro tem amor: Ichoco"
+          "alt": "Aqui dentro tem amor: Ichoco",
+          "link": "/caixinha-divertidas-presente"
         }
       ]
     },
