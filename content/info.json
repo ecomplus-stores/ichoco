@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Monte a sua cesta e entregamos com muito carinho!"
+    "text": "Monte a sua cesta e entregamos com muito carinho!",
+    "link": "/monte-sua-cesta"
   },
   "installments": {
     "show": true,
-    "text": "Parcele suas compras sem juros"
+    "text": "Parcele suas compras sem juros",
+    "link": "/pages/pagamentos"
   },
   "exchange": {
     "show": false,
@@ -13,6 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Veja as promoções para o dia das Mães!"
+    "text": "Veja as promoções para o dia dos Namorados! ",
+    "link": "especial-dia-dos-namorados"
   }
 }
