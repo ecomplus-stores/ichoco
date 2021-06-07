@@ -53,6 +53,11 @@
       "sort": null
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/monte-e-personalize-sua-cesta-.jpg",
+      "link": "/monte-sua-cesta"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
