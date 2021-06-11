@@ -9,6 +9,10 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/monte-e-personalize-sua-cesta-1-.jpg"
+    },
+    {
       "type": "product-description",
       "enabled": true
     },
@@ -41,16 +45,20 @@
           "img": "/img/uploads/8.jpg",
           "link": "/flores",
           "alt": "Escolha as flores para a cesta"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/9.jpg"
         },
         {
-          "img": "/img/uploads/9.jpg",
-          "link": "/bebidas",
-          "alt": "Escolha as bebidas"
+          "img": "/img/uploads/12.jpg"
         },
         {
-          "img": "/img/uploads/10.jpg",
-          "link": "/presentes",
-          "alt": "Presentes para a cesta"
+          "img": "/img/uploads/10.jpg"
         }
       ]
     }
