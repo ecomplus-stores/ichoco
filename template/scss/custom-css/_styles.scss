@@ -226,3 +226,11 @@ h4 {
     margin-bottom: 16px;
   }
 }
+
+#checkout .qrcode{
+  display: none;
+}
+
+.order-info__toggle {
+  display: none !important;
+}
