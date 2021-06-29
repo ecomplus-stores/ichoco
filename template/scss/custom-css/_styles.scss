@@ -234,3 +234,12 @@ h4 {
 .order-info__toggle {
   display: none !important;
 }
+
+@media(max-width: 767px) {
+#page-home .banners-grid .col-12 {
+  flex: 0 0 33.33333%;
+  max-width: 33.33333%;
+  padding-left: 2px;
+  padding-right: 2px
+}
+}
