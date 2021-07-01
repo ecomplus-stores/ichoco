@@ -9,7 +9,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/post-instagram-comidas-de-festa-junina.png"
+          "img": "/img/uploads/post-instagram-comidas-de-festa-junina.png",
+          "link": "/cesta-especial-arraia-2021-individual",
+          "alt": "cesta de presente festa junina"
         }
       ]
     },
@@ -31,14 +33,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-1-.png",
+          "img": "/img/uploads/canjica-milho-pacoca.-2-.png",
           "link": "/pages/entrega"
         },
         {
-          "img": "/img/uploads/canjica-milho-pacoca..png"
+          "img": "/img/uploads/canjica-milho-pacoca..png",
+          "link": "/cesta-especial-arraia-2021-luxo"
         },
         {
-          "img": "/img/uploads/entrega-em-sete-lagoas-ate-22h-3-.png"
+          "img": "/img/uploads/canjica-milho-pacoca.-1-.png",
+          "link": "/pages/faq"
         }
       ]
     },
