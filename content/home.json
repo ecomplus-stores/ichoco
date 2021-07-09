@@ -1,5 +1,5 @@
 {
-  "meta_title": "Cesta de Chocolate, Presentes, Café da manhã | ICHOCO",
+  "meta_title": "Cesta de Chocolate, Presentes, Café da manhã | ICHOCO ",
   "meta_description": "Compre cesta de chocolate e presentes na ICHOCO. Aqui você encontra diversas cestas, e garantimos o melhor preço.",
   "sections": [
     {
@@ -114,14 +114,6 @@
       "collection_id": "608213f53983002ac495dd7a:categories:Cesta com Flores:/cesta-com-flores",
       "title": "",
       "headless": true
-    },
-    {
-      "type": "page-title",
-      "title": "Fique por dentro das novidades! Acompanhe nossa rede social!"
-    },
-    {
-      "type": "custom-html",
-      "html": "<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': 'ichoco.gourmet',\n            'container': document.getElementById(\"instagram-feed\"),\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 6,\n            'items_per_row': 6,\n            'margin': 1\n        });\n    })();\n</script>"
     },
     {
       "type": "banner-slider",
