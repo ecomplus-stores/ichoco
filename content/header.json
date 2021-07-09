@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Personalize sua cesta! ",
-    "link": ""
+    "link": "/cesta-de-presentes"
   },
   "contacts_stripe": {
     "pages": [
@@ -18,7 +18,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/cesta-de-chocolate?Cesta de Chocolate",
+      "/caixinha-divertidas-presente?Caixinha divertidas",
+      "/cesta-cafe-da-manha?Cesta café da manhã",
+      "/novidade?Novidade",
+      "/ate-45-reais?Ate 45,90",
+      "/ate-r7590?Ate R$75,90"
+    ],
     "random": 0,
     "full_width": true
   },
