@@ -25,7 +25,7 @@
       "collection_id": "60bd1b0a641ad82fcc2190d6:categories:Novidade:/novidade",
       "limit": 12,
       "page": 1,
-      "sort": null,
+      "sort": "news",
       "title": "Os mais vistos",
       "headless": false
     },
@@ -33,7 +33,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/canjica-milho-pacoca.-2-.png",
+          "img": "/img/uploads/canjica-milho-pacoca..jpg",
           "link": "/pages/entrega"
         },
         {
@@ -49,13 +49,13 @@
     {
       "page": 1,
       "title": "Adoce o dia!",
-      "shuffle": true,
+      "shuffle": false,
       "headless": true,
       "type": "collection-shelf",
       "link": "",
       "limit": 12,
       "collection_id": "608220a23983002ac495e3d9:categories:Caixinha divertidas:/caixinha-divertidas-presente",
-      "sort": null
+      "sort": "lowest_price"
     },
     {
       "type": "responsive-banner",
@@ -95,7 +95,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "60821d343983002ac495e265:categories:Cesta de Chocolate:/cesta-de-chocolate",
