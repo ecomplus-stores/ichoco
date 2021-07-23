@@ -46,16 +46,16 @@
         },
         {
           "img": "/img/uploads/4.png",
-          "link": "/caneca-dia-dos-pais",
+          "link": "/caneca-dia-dos-pais?",
           "mobile_img": ""
         },
         {
           "img": "/img/uploads/8.png",
-          "link": "/polvo-do-humor"
+          "link": "/polvo-do-humor?"
         },
         {
           "img": "/img/uploads/6.png",
-          "link": "/cesta-co-bebidas"
+          "link": "/cesta-co-bebidas?"
         }
       ]
     },
