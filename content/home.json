@@ -72,6 +72,16 @@
     },
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/45.png",
+      "link": "/ate-45-reais?"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/75.png",
+      "link": "/ate-r7590?"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/monte-e-personalize-sua-cesta-.jpg",
       "link": "/monte-sua-cesta"
     },
