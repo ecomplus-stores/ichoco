@@ -72,6 +72,11 @@
     },
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/monte-sua-cesta.png",
+      "link": "/monte-sua-cesta"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/45.png",
       "link": "/ate-45-reais?"
     },
@@ -79,11 +84,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/75.png",
       "link": "/ate-r7590?"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/monte-sua-cesta.png",
-      "link": "/monte-sua-cesta"
     },
     {
       "type": "banners-grid",
