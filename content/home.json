@@ -33,18 +33,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/canjica-milho-pacoca..jpg",
-          "link": "/pages/entrega"
-        },
-        {
-          "img": "/img/uploads/canjica-milho-pacoca..png",
-          "link": "/cesta-especial-arraia-2021-luxo"
-        },
-        {
-          "img": "/img/uploads/canjica-milho-pacoca.-1-.png",
-          "link": "/pages/faq"
-        },
-        {
           "img": "/img/uploads/4.png",
           "link": "/caneca-dia-dos-pais?",
           "mobile_img": ""
@@ -56,6 +44,18 @@
         {
           "img": "/img/uploads/6.png",
           "link": "/cesta-co-bebidas?"
+        },
+        {
+          "img": "/img/uploads/canjica-milho-pacoca..jpg",
+          "link": "/pages/entrega"
+        },
+        {
+          "img": "/img/uploads/canjica-milho-pacoca..png",
+          "link": "/cesta-especial-arraia-2021-luxo"
+        },
+        {
+          "img": "/img/uploads/canjica-milho-pacoca.-1-.png",
+          "link": "/pages/faq"
         }
       ]
     },
