@@ -62,7 +62,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "link": "/monte-sua-cesta",
+          "link": "/monte-sua-cesta?",
           "img": "/img/uploads/.5.png"
         },
         {
