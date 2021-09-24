@@ -77,6 +77,23 @@
       "type": "banners-grid",
       "banners": [
         {
+          "link": "/monte-sua-cesta",
+          "img": "/img/uploads/.5.png"
+        },
+        {
+          "link": "/ate-45-reais?",
+          "img": "/img/uploads/.4-1-.png"
+        },
+        {
+          "alt": "/ate-r7590?",
+          "img": "/img/uploads/.6.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/grid1.png",
           "alt": "Sorrir Amar e Viver",
           "link": "/presentes"
