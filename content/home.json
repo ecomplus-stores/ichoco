@@ -63,15 +63,15 @@
       "banners": [
         {
           "link": "/monte-sua-cesta",
-          "img": "/img/uploads/.5.png"
+          "img": "/img/uploads/presente.png"
         },
         {
           "link": "/ate-45-reais",
-          "img": "/img/uploads/.4-1-.png"
+          "img": "/img/uploads/present-45.png"
         },
         {
           "alt": "",
-          "img": "/img/uploads/.6.png",
+          "img": "/img/uploads/presente-75.png",
           "link": "/ate-75-reais"
         }
       ]
