@@ -62,17 +62,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "link": "/monte-sua-cesta?",
+          "link": "/monte-sua-cesta",
           "img": "/img/uploads/.5.png"
         },
         {
-          "link": "/ate-45-reais?",
+          "link": "/ate-45-reais",
           "img": "/img/uploads/.4-1-.png"
         },
         {
           "alt": "",
           "img": "/img/uploads/.6.png",
-          "link": "/ate-75-reais?"
+          "link": "/ate-75-reais"
         }
       ]
     },
