@@ -59,21 +59,6 @@
       "sort": "lowest_price"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/.5.png",
-      "link": "/monte-sua-cesta"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/.4-1-.png",
-      "link": "/ate-45-reais?"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/.6.png",
-      "link": "/ate-r7590?"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
