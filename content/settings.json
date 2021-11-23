@@ -1,12 +1,12 @@
 {
   "domain": "ichoco.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#400c04",
+  "primary_color": "#776878",
   "theme": {
     "bootswatch": "lux",
     "custom": "clean-dark"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#a0a2a0",
   "logo": "/img/uploads/cestappp.png",
   "name": "ICHOCO",
   "short_name": "ICHOCO",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#ffffff",
+  "secondary_color": "#978c8c",
   "icon": "/img/uploads/favicon.png",
   "store_id": 1284,
   "description": "Carinho em forma de presente!\n\nCestas, caixas surpresas, cestas de presentes, cesta de flores, cestas de chocolates. Tudo feito respeitando os protocolos de segurança.\n\nSurpreenda quem você ama!\n",
