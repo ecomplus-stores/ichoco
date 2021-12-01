@@ -4,10 +4,10 @@
   "primary_color": "#776878",
   "theme": {
     "bootswatch": "lux",
-    "custom": "clean-dark"
+    "custom": "clean-white"
   },
   "bg_color": "#a0a2a0",
-  "logo": "/img/uploads/cestappp.png",
+  "logo": "/img/uploads/logo.png",
   "name": "ICHOCO",
   "short_name": "ICHOCO",
   "lang": "pt_br",
