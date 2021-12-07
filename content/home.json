@@ -42,13 +42,10 @@
       "headless": false
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "link": "/natal?",
-          "img": "/img/uploads/natal-banner.png"
-        }
-      ]
+      "type": "responsive-banner",
+      "link": "/natal?",
+      "img": "/img/uploads/natal-banner.png",
+      "mobile_img": "/img/uploads/natal-banner.png"
     },
     {
       "type": "banners-grid",
