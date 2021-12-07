@@ -60,8 +60,9 @@
           "link": "/canecas-divertidas?"
         },
         {
-          "img": "/img/uploads/crianca.png",
-          "link": "/cesta-infantil-linha-kids?"
+          "img": "/img/uploads/kids.png",
+          "link": "/cesta-infantil-linha-kids?",
+          "mobile_img": "/img/uploads/kids.png"
         }
       ]
     },
