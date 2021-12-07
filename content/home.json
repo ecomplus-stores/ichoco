@@ -47,7 +47,12 @@
         {
           "link": "/natal?",
           "img": "/img/uploads/natal-banner.png"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
           "img": "/img/uploads/cestas-brasil.png",
           "link": "/cestas-para-brasil?",
