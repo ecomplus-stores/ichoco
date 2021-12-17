@@ -75,7 +75,7 @@
       "link": "",
       "limit": 12,
       "collection_id": "61ae0cf30c7c727225b9017f:categories:Natal:/natal",
-      "sort": "news"
+      "sort": "lowest_price"
     },
     {
       "type": "banners-grid",
