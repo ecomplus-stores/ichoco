@@ -68,14 +68,14 @@
     },
     {
       "page": 1,
-      "title": "Adoce o dia!",
+      "title": "",
       "shuffle": false,
       "headless": true,
       "type": "collection-shelf",
       "link": "",
       "limit": 12,
-      "collection_id": "608220a23983002ac495e3d9:categories:Caixinha divertidas:/caixinha-divertidas-presente",
-      "sort": "lowest_price"
+      "collection_id": "61ae0cf30c7c727225b9017f:categories:Natal:/natal",
+      "sort": "news"
     },
     {
       "type": "banners-grid",
