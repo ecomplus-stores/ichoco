@@ -131,8 +131,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60821d343983002ac495e265:categories:Cesta de Chocolate:/cesta-de-chocolate",
-      "title": "Chocolovers"
+      "collection_id": "60bacbf0641ad82fcc20b2de:categories:Monte sua cesta!:/monte-sua-cesta",
+      "title": "Monte sua Cesta!",
+      "sort": "news"
     },
     {
       "type": "page-title",
