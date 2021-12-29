@@ -31,9 +31,9 @@
     },
     {
       "type": "responsive-banner",
-      "link": "/natal?",
-      "img": "/img/uploads/natal-banner.png",
-      "mobile_img": "/img/uploads/natal-banner.png"
+      "link": "/canecas-divertidas?",
+      "img": "/img/uploads/banner-ichoco.png",
+      "mobile_img": ""
     },
     {
       "type": "banners-grid",
