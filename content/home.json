@@ -9,6 +9,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-mae.png",
+          "link": "/dia-das-maes"
+        },
+        {
+          "start": "",
+          "end": "",
           "link": "/canecas-divertidas",
           "img": "/img/uploads/banner-ichoco-1-2.png"
         },
@@ -18,12 +24,6 @@
           "img": "/img/uploads/banner-ichoco-1-.png",
           "link": "/monte-sua-cesta",
           "alt": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-mae.png",
-          "link": "/dia-das-maes"
         }
       ],
       "full_width": true
