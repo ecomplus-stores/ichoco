@@ -97,26 +97,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/grid1.png",
-          "alt": "Sorrir Amar e Viver",
-          "link": "/presentes"
-        },
-        {
-          "img": "/img/uploads/grid2.png",
-          "alt": "Play no chocolate",
-          "link": "/bomboniere-doces-chocolates"
-        },
-        {
-          "img": "/img/uploads/grid3.png",
-          "alt": "Aqui dentro tem amor: Ichoco",
-          "link": "/caixinha-divertidas-presente"
-        }
-      ]
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
