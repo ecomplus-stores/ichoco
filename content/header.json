@@ -20,7 +20,7 @@
   "categories_list": {
     "featured": [
       "/cesta-de-chocolate?Cesta de Chocolate",
-      "/ate-45-reais?Ate 45,90",
+      "/ate-45-reais?Ate 49,90",
       "/caneca-geek--nerd?Caneca Geek / Nerd",
       "/ate-r7590?Ate R$75,90",
       "/cesta-com-pelucia?Cesta com pelúcia",
@@ -29,5 +29,6 @@
     "random": 0,
     "full_width": true
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
