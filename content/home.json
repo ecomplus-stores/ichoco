@@ -35,7 +35,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "60bd1b0a641ad82fcc2190d6:categories:Novidade:/novidade",
+      "collection_id": "628b895adf4d8071c91e7ff7:categories:Dia dos Namorados:/dia-dos-namorados",
       "limit": 12,
       "page": 1,
       "sort": "news",
@@ -127,9 +127,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "628b895adf4d8071c91e7ff7:categories:Dia dos Namorados:/dia-dos-namorados",
+      "collection_id": "60bd1b0a641ad82fcc2190d6:categories:Novidade:/novidade",
       "title": "",
-      "headless": true
+      "headless": false,
+      "sort": "news"
     },
     {
       "type": "banner-slider",
