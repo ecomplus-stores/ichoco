@@ -7,17 +7,19 @@
     "custom": "clean-white"
   },
   "bg_color": "#a0a2a0",
-  "logo": "/img/uploads/logo1.png",
+  "logo": "/img/uploads/1-10-.png",
   "name": "ICHOCO",
   "short_name": "ICHOCO",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "font_family": "Lato",
+  "favicon": "/img/uploads/1-10-.png",
+  "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#978c8c",
-  "icon": "/img/uploads/favicon.png",
+  "icon": "/img/uploads/1-10-.png",
   "store_id": 1284,
   "description": "Carinho em forma de presente!\n\nCestas, caixas surpresas, cestas de presentes, cesta de flores, cestas de chocolates. Tudo feito respeitando os protocolos de segurança.\n\nSurpreenda quem você ama!\n",
-  "large_icon": "/img/uploads/favicon.png"
+  "large_icon": "/img/uploads/1-10-.png"
 }
