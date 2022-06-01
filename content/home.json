@@ -63,7 +63,7 @@
         {
           "img": "/img/uploads/campanha-banner-post.png",
           "link": "/caneca-infantil?",
-          "mobile_img": "/img/uploads/kids.png"
+          "mobile_img": ""
         }
       ]
     },
@@ -83,7 +83,7 @@
       "banners": [
         {
           "link": "/monte-sua-cesta",
-          "img": "/img/uploads/presente.png"
+          "img": "/img/uploads/campanha-banner-post-1-.png"
         },
         {
           "link": "/ate-45-reais",
