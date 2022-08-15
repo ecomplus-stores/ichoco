@@ -43,6 +43,14 @@
       "headless": false
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "608eeb2b014d483dbf18d109:categories:Até R$99,00:/ate-75-reais",
+      "sort": "views"
+    },
+    {
       "type": "responsive-banner",
       "link": "/canecas-divertidas?",
       "img": "/img/uploads/banner-ichoco-8-.png",
